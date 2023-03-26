@@ -27,3 +27,4 @@
 * [RiZoeL Creator](https://github.com/MrRizoel)
 * [Ustad-op](https://github.com/Ustad-Op)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+https://dashboard.heroku.com/new-app?template=//github.com/Roninopp/kk
